@@ -1,0 +1,20 @@
+path: defects_dataset_new-2
+train: train
+val: valid
+test: test
+
+
+names:
+  0: crazing
+  1: crease
+  2: crescent_gap
+  3: inclusion
+  4: oil_spot
+  5: punching_hole
+  6: rolled-in_scale
+  7: rolled_pit
+  8: scratches
+  9: silk_spot
+  10: waist_folding
+  12: water_spot
+  13: welding_line
